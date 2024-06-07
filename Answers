@@ -1,0 +1,101 @@
+Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications
+
+Difference between Software Engineering and Traditional Programming: 
+Interms of scope software engineering is broad, while traditional programming is narrow, mainly including code writing
+Interms of focus, software engineering is about project management and a systematic process, while traditional programming is about code development
+Interms of end goals, software engineering is about delivering a complete software solution, while traditional programming is about creating functional code blocks
+Interms of required skills, software engineering requires technical analytical and management skills, while traditional programming requires coding and debugging
+
+Software development life cycle is a process used to create awesome software that are top notch in terms of quality, cost effectiveness and time efficiency. Its phases are;
+Planning and analysis: gathering business requirements from your client or stakeholders.
+Defining Requirements: critical for converting gathered information from the first phase into clear requirements for the development team.
+Design: the original plan and vision are elaborated into a software design document that includes the system design, programming language, emplates, platforms to use and security measures
+Development: Development team members divide the project into software modules and turn the software requirements into code that make the product
+Testing: validation testing to make sure its functioning properly and does what its meant to do
+Deployment: your final product is delivered to your intended user
+Maintenance: final stage if you're following the waterfall structure, but if its agile maintenance is just a stage for further improvement, and some of actions can lead to the first step
+
+Difference between agile and waterfall models:
+Interms of timeline waterfall has a fixed timeline, while agile has a lot more flexible and accounts for experimenting with different directions
+Interms of client involvement, waterfall is once a goal is established, it doesn't involve client or owner during the process part from specific check ins or deliverables , while agile
+takes client involvement in the project development of every step as its fundamental.
+Interms of flexibility, waterfall is not as flexible as agile because each phase needs to be completed before moving to the next one, while agile is built with flexibility, and values
+short bursts of work, called sprints
+Interms of budget, waterfall is fixed, because the project is determined from start to finish, while agile is open to adaptation, so the budget tends to be flexible.
+Preferences:
+waterfall is better for projects with redulations or requirements because each phase and its deliverables and strict procedures are ensured to be met
+agile is better for projects where stakeholders are closely involved every step of the way.
+waterfall is better for cost minimization
+
+Requirements engineering is the process of identifying, analyzing, specifying, validating and managing the needs and expectations of stakeholders for a software system.
+This process involves feasibility study, where there is technical feasibility, operational feasibility, and economic feasibility, also it involves requirements elicitation, by doing
+interviews, surveys, focus groups, observations or prototyping, also it involves requirements specifications, where there are functional and non- functional requirements, constraints 
+and acceptance criteria, also it involves requirement validation and verification, where requirements should be consistent, complete and practically achievable, but also it involves 
+requirement management, where there is tracking and controlling challenges, version control, traceability, communication and monitoring and evaluation.
+Importance of requirements engineering in software development is that it helps ensure that software being developed meets the needs and expectations of the stakeholders, can help 
+identify potential issues or problems early in the development process, helps ensure that the software is developed in a cost effective and efficient manner and many others
+
+Modularity in software design is a meausre of how well a software is decomposed into smaller pieces with standardized interfaces, where each module gets to handle a specific functionality
+and operates independently.
+It improves and enhances scalability and maintanability since by breaking down the software into independent modules, you can more easily adapt, extend or replace parts of the system 
+without affecting others. this flexibility is key when scalling an application to andle increased loads or adding new features.
+
+Testing in software engineering is a procedure for locating defectve areas while preventing errors in development life cycle stages, and the levels are like;
+Unit testing: first level and most basic type done, where individual units of the software are tested, checking whether every individual component is accurately meeting the requirements 
+and delivering the required output 
+Integration testing: second level and testers usally use this instead of developers.this is where it is verified whwther individual modules when combined, work correclty or not, as a 
+group
+System testing: third level where all components are tested together as a whole to ensure that the final product meets specified requirements.
+Acceptance testing: last and final level where it is determined whether or not the system should be released to the public, complying to the end user requirements.
+Inportance of testing is to reduce software defects and quality issues experienced by end users, but also makes sure that the software is user friendly and as per the user expectation.
+
+Version control systems are systems that track and manage changes made to code and other files. it is also closely related to source code management.
+It is important since they facilitate coordination, sharing and collaboration across an entire software development team, enabling teams to work in distributed and asynchronous
+environments, manage changes and versions of code and artifacts and resolve merge conflicts and related anomalies.
+Examples:
+Git- features like history tracker, creates backup, scalable, easy branching
+Subversion(SVN)- features include personal repository space, option to pay for additional space over 10gb, web collaboration available via sourceEd
+Mercurial- features include distributed architecture, fast, platform independent, extensible
+
+Software project managers serve as liaisons between the development team and other stakeholders in a software project. they may be responsibke for communicating project status, managing 
+changes and requesting additional resources to help complete the project
+Managing software projects comes with responsibilities like:
+Planning and developing the project idea
+creating and leading your dream team
+monitoring project progress
+solving issues that arise
+manage the money
+ensuring stakeholder satisfaction
+evaluate project performance
+challenges facing managing software projects are like:
+budget constraints
+stakeholder management
+project scheduling and coordination
+
+Software maintenance is the process of modifying, changing, and updating a software system or module to resolve errors, improve performance or adapt to a changing environment
+types of software maintanance activities are like;
+adaptive maintanance- changing software in response to changes in an environment
+perfective maintanance- focused on functional enhancements to improve user experience
+corrective maintanance- correcting software bugs, errors and defects
+preventive maintanance- defines adaptations and modifications of software that mitigate deterioration risks
+Importance of software maintanance is essential in sofware dev cycle because it does:
+bug fixing
+capability enhancement
+removal of outdated features
+performance improvement
+
+Ethical issues that most software engineers face are like;
+safety, acceptable risk, compliance, confidentiality, environmental health, data integrity, conflict of interest, and many more
+Software engineers ensure they adhere to ethical standars by:
+acting without bias
+protecting confidentiality
+ensure equitable access
+comply with laws
+practice a transparent behavior
+
+
+
+
+
+
+
